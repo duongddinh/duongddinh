@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @frychicken
-- 👀 I’m interested in women
-- 🌱 I’m currently learning to be a better man
-- 💞️ I’m looking to collaborate on our future lol
+- 👀 I’m interested in 
+- 🌱 I’m currently learning to be
+- 💞️ I’m looking to collaborate on
 - 📫 How to reach me @bobdinh139 on sc or bobdinh139@icloud.com
 
 <!---
