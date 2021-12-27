@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @frychicken
-- 👀 I’m interested in 
-- 🌱 I’m currently learning to be
-- 💞️ I’m looking to collaborate on
+- 👀 I’m interested in designing as well as programming
+- 🌱 I’m currently learning to be a better designer
+- 💞️ I’m looking to collaborate on big projects
 - 📫 How to reach me @bobdinh139 on sc or bobdinh139@icloud.com
 
 <!---
