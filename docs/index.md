@@ -10,8 +10,12 @@ I believe that the color choice for each page is easy on the eyes.
 
 **Square:** I have never seen anyone design website like this, too minimalist. Is this the problem? There is not much content in each page, waste of space? Well, I can confidently say that I invented this design. Now, it might seem "too minimalist" to a point where it seems like there is something missing. But if you are like me, who is willing to sacrify everything for look, you will understand that this is not the case however. Unless this is a static page where there is no interaction between the user and the page, this design is questionable.
 
+![](Screen%20Shot%202022-01-02%20at%208.40.18%20PM.png)
+
 The design on the first page "train" the user to use the website. It releases the curiosity in each square and shape where there is no label, which forces the user to hover on each shape to find out what each shape contains. You'll see throughout the site, evey shape is clickable. 
 
 The second page conveys a sudden change in aesthetic, which set the mood for every page, people will more likely to continue to scroll down because they don't know what to expect. With smooth transition, scrolling is even more fun. 
+
+![](Screen%20Shot%202022-01-02%20at%208.41.06%20PM.png)
 
 **Why does this page exists?** Because I want to highlight the change and the growth in the way I design stuff. I want to believe that I also invented this design language.
