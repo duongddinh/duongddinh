@@ -18,4 +18,6 @@ The second page conveys a sudden change in aesthetic, which set the mood for eve
 
 ![](Screen%20Shot%202022-01-02%20at%208.41.06%20PM.png)
 
+**Inspiration/How I make the website:** I use google slides to design this before I code the whole website. I believe that even though the right tools play an important role in designing, with the right attitude and creativity, tools become less important. The idea of the website comes from mostly nature, the beauty and colorful of nature. Square brings the feel of stability, trustworthy, and honesty. 
+
 **Why does this page exists?** Because I want to highlight the change and the growth in the way I design stuff. I want to believe that I also invented this design language.
