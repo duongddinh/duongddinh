@@ -22,7 +22,7 @@ Each square delivers a different meanings. The first three squares contains thre
 
 ![](Screen%20Shot%202022-01-02%20at%2010.47.43%20PM.png)
 
-**Font:** I use two fonts, one is th handwritting type of font and the other is the more classical font. The handwritting represents the playful, curiosity, and natural look in the design language, the other represent more of a formal look. Both connected illustates the convention, but unconventional look. 
+**Font:** I use two fonts, one is the handwritting type of font and the other is the more classical font. The handwritting represents the playful, curiosity, and natural look in the design language, the other represent more of a formal look. Both connected illustates the convention, but unconventional look. 
 
 **Inspiration/How I make the website:** I use google slides to design this before I code the whole website. I believe that even though the right tools play an important role in designing, with the right attitude and creativity, tools become less important. The idea of the website comes from mostly nature, the beauty and colorful of nature. Square brings the feel of stability, trustworthy, and honesty. 
 
