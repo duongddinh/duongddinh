@@ -6,12 +6,16 @@ _Minimalist but too minimalist_
 Let's take a look at my website [null0verflow.xyz](https://null0verflow.xyz), we are going to discuss how i chose my design language.
 
 **Content**
-           
+
 - [Color](#Color)
 - [Square](#Square)
 - [Font](#Font)
 - [Inspiration](#Inspiration)
 - [Bottom line](#Bottom-line)
+
+## Opening 
+
+As a person who loves art, I have always been a fan a minimalist design. I love the way Apple design their products, simple, minimalist yet elegant and productive. However, I have never really learned how to create art. Throughout the years, taking inspiration from Apple and many other companies, I have designed many websites "freestylely". All the design choices I gathered are all from trial and error. From those experience, minimalist design is always the answer to everything. _But how minimalist is enough minimalist?_ This website has what I call "square design" where it takes minimalist to another level. 
 
 ## Color
 
@@ -43,4 +47,8 @@ Each square delivers a different meanings. The first three squares contains thre
 **Inspiration/How I make the website:** I use google slides to design this before I code the whole website. I believe that even though the right tools play an important role in designing, with the right attitude and creativity, tools become less important. The idea of the website comes from mostly nature, the beauty and colorful of nature. Square brings the feel of stability, trustworthy, and honesty. 
 
 ## Bottom line
-**Why does this page exists?** Because I want to highlight the change and the growth in the way I design stuff. I want to believe that I also invented this design language.
+**Why does this page exists?** Because I want to highlight the change and the growth in the way I design stuff. I want to believe that I also invented this design language. 
+
+To answer the question above,  _But how minimalist is enough minimalist?_, the answer is _yes_, as long as you can justify the simplistic design. I emphasize on attention seeking and the elegant in my website. The idea behind this is there are many hidden meaning in every square as well as in every piece of art; you have to look for it to find the beauty. Big space of nothingness often contains the hidden world. 
+
+I introduced the concept of more than minimalist design, which is practical in most porfolio cases where aesthetic is what you are looking for. 
