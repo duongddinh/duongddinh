@@ -18,6 +18,10 @@ The second page conveys a sudden change in aesthetic, which set the mood for eve
 
 ![](Screen%20Shot%202022-01-02%20at%208.41.06%20PM.png)
 
+Each square delivers a different meanings. The first three squares contains three websites, my merch, discord bot, and older websites. Each of these has a similar design (black/white) and are for advertising hence, it is in the first page. Whereas the two squares in the second page represents the research i did in order to write the programs. Butterfly is the theme for the second page, beautiful and colorful of nature, perfectly introduce neural network and true random (which are two squares). My neural network program introduce the idea of microevolution and macroevolution which is illustrated as the bigger squares where part of it roots in true random (smaller squares). The bigger the squares, the more proud and important the products are. 
+
+![](Screen%20Shot%202022-01-02%20at%2010.47.43%20PM.png)
+
 **Inspiration/How I make the website:** I use google slides to design this before I code the whole website. I believe that even though the right tools play an important role in designing, with the right attitude and creativity, tools become less important. The idea of the website comes from mostly nature, the beauty and colorful of nature. Square brings the feel of stability, trustworthy, and honesty. 
 
 **Why does this page exists?** Because I want to highlight the change and the growth in the way I design stuff. I want to believe that I also invented this design language.
