@@ -1,4 +1,4 @@
-<h1 align="center">Hi :wave:, I'm @frychicken :blush:</h1>
+
 
 
 [![Website](https://img.shields.io/website?label=null0verflow.xyz&style=for-the-badge&url=https%3A%2F%2Fnull0verflow.xyz)](https://null0verflow.xyz)
