@@ -8,6 +8,7 @@
 
 
 - A Programmer who happens to be a designer, a network engineerer, and a body builder
+- Other projects: [@null0verflow](https://github.com/null0verflow) for archived Projects, [@bobdinh139](https://github.com/bobdinh139) for school Projects
 - 📫 How to reach me bobdinh139@icloud.com
 
 ### Platform:
