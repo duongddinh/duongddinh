@@ -1,15 +1,14 @@
 
-<img src="newlogo2bro.png"  width="200" height="200">
-
-[![Website](https://img.shields.io/website?label=null0verflow.xyz&style=for-the-badge&url=https%3A%2F%2Fnull0verflow.xyz)](https://null0verflow.xyz)
-
-[![Website](https://img.shields.io/website?label=null0verflow.xyz/merch&style=for-the-badge&url=https%3A%2F%2Fnull0verflow.xyz/merch)](https://null0verflow.xyz/merch)
+<img align="left" src="newlogo2bro.png"  width="200" height="200"> [![Website](https://img.shields.io/website?label=null0verflow.xyz&style=for-the-badge&url=https%3A%2F%2Fnull0verflow.xyz)](https://null0verflow.xyz) [![Website](https://img.shields.io/website?label=null0verflow.xyz/merch&style=for-the-badge&url=https%3A%2F%2Fnull0verflow.xyz/merch)](https://null0verflow.xyz/merch)
 
 
 
 - A Programmer who happens to be a designer, a network engineerer, and a body builder
 - [Portfolio](https://frychicken.github.io/Portfolio/) | [Blog](https://frychicken.github.io/blog/)
 - 📫 How to reach me bobdinh139@icloud.com
+
+<br>
+<hr>
 
 ### Platform:
 <img align="left" alt="Windows" width="40px" src="https://img.icons8.com/fluent/48/000000/windows-10.png"/>
