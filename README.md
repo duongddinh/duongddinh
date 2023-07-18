@@ -33,6 +33,7 @@
 <img align="left" alt="PHP" width="40px" src="https://logos-download.com/wp-content/uploads/2016/09/PHP_logo.png"/>
 
 <br>
+<hr>
 
 - Other projects: [@null0verflow](https://github.com/null0verflow) for archived Projects, [@bobdinh139](https://github.com/bobdinh139) for school Projects
 
