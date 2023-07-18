@@ -7,6 +7,7 @@
 - [Portfolio](https://frychicken.github.io/Portfolio/) | [Blog](https://frychicken.github.io/blog/)
 - 📫 How to reach me bobdinh139@icloud.com
 
+<p></p>
 <br>
 <hr>
 
