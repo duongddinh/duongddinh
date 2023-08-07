@@ -6,6 +6,7 @@
 - A Programmer who happens to be a designer, a network engineerer, and a body builder
 -  [Blog](https://frychicken.github.io/blog/) | [Portfolio](https://frychicken.github.io/Portfolio/) 
 - 📫 How to reach me bobdinh139@icloud.com
+- My gist: [https://gist.github.com/frychicken](https://gist.github.com/frychicken)
 <p>&nbsp;&nbsp;&nbsp;&nbsp; </p>
 <p></p>
 <br>
