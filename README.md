@@ -14,7 +14,7 @@
 
 ### Stats:
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=frychicken&hide=html&langs_count=7&layout=compact)](https://github.com/frychicken)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=frychicken&hide=html&langs_count=9&layout=compact)](https://github.com/frychicken)
 
 <br>
 
