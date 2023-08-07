@@ -33,7 +33,7 @@
 <br>
 <hr>
 
-- Other projects:[My gist](https://gist.github.com/frychicken), Other account: [@null0verflow](https://github.com/null0verflow) for archived Projects, [@bobdinh139](https://github.com/bobdinh139) for school Projects
+- Other projects: [My gist](https://gist.github.com/frychicken), Other account: [@null0verflow](https://github.com/null0verflow) for archived Projects, [@bobdinh139](https://github.com/bobdinh139) for school Projects
 
 
 <!---
