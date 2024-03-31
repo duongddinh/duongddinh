@@ -1,5 +1,5 @@
 
-<img align="left" src="https://raw.githubusercontent.com/frychicken/frychicken.github.io/main/businesscard2.png" height="200"> [![Website](https://img.shields.io/website?label=blinkify.jimdolphins.com&style=for-the-badge&url=https%3A%2F%2Fblinkify.jimdolphins.com)](https://blinkify.jimdolphins.com) [![Website](https://img.shields.io/website?label=jimdolphins.com&style=for-the-badge&url=https%3A%2F%2Fjimdolphins.com)](https://jimdolphins.com)
+[![Website](https://img.shields.io/website?label=blinkify.jimdolphins.com&style=for-the-badge&url=https%3A%2F%2Fblinkify.jimdolphins.com)](https://blinkify.jimdolphins.com) [![Website](https://img.shields.io/website?label=jimdolphins.com&style=for-the-badge&url=https%3A%2F%2Fjimdolphins.com)](https://jimdolphins.com)
 
 
 
