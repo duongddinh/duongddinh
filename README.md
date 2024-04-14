@@ -5,7 +5,7 @@
 
 - A programmer, network engineer
 - 📫 How to reach me duongdaidinh09@gmail.com
-- My gist: [https://gist.github.com/frychicken](https://gist.github.com/frychicken)
+- My gist: [https://gist.github.com/frychicken](https://gist.github.com/duongddinh)
 <p>&nbsp;&nbsp;&nbsp;&nbsp; </p>
 <p></p>
 <br>
