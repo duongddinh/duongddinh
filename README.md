@@ -3,8 +3,7 @@
 
 
 
-- A Programmer who happens to be a designer, a network engineerer, and a body builder
--  [Blog](https://frychicken.github.io/blog/) | [Portfolio](https://frychicken.github.io/Portfolio/) 
+- A programmer, network engineer
 - 📫 How to reach me duongdaidinh09@gmail.com
 - My gist: [https://gist.github.com/frychicken](https://gist.github.com/frychicken)
 <p>&nbsp;&nbsp;&nbsp;&nbsp; </p>
