@@ -5,7 +5,7 @@
 
 - A Programmer who happens to be a designer, a network engineerer, and a body builder
 -  [Blog](https://frychicken.github.io/blog/) | [Portfolio](https://frychicken.github.io/Portfolio/) 
-- 📫 How to reach me bobdinh139@icloud.com
+- 📫 How to reach me duongdaidinh09@gmail.com
 - My gist: [https://gist.github.com/frychicken](https://gist.github.com/frychicken)
 <p>&nbsp;&nbsp;&nbsp;&nbsp; </p>
 <p></p>
@@ -33,7 +33,6 @@
 <br>
 <hr>
 
-- Other projects: [My gist](https://gist.github.com/frychicken), Other account: [@null0verflow](https://github.com/null0verflow) for archived Projects, [@bobdinh139](https://github.com/bobdinh139) for school Projects
 
 
 <!---
