@@ -1,7 +1,7 @@
 [![Website](https://img.shields.io/website?label=fragella.com&style=for-the-badge&url=https%3A%2F%2Ffragella.com)](https://fragella.com)
 [![Website](https://img.shields.io/website?label=noseHQ.com&style=for-the-badge&url=https%3A%2F%2FnoseHQ.com)](https://noseHQ.com)
 [![Website](https://img.shields.io/website?label=velira.co&style=for-the-badge&url=https://velira.co)](https://velira.co)
-[![Website](https://img.shields.io/website?label=networkly.jimdolphins.com&style=for-the-badge&url=https%3A%2F%2Fblinkify.jimdolphins.com)](https://networkly.jimdolphins.com)
+[![Website](https://img.shields.io/website?label=networkly.jimdolphins.com&style=for-the-badge&url=https%3A%2F%2Fnetworkly.jimdolphins.com)](https://networkly.jimdolphins.com)
 
 
 - A programmer, network engineer
