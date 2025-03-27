@@ -1,6 +1,5 @@
 [![Website](https://img.shields.io/website?label=fragella.com&style=for-the-badge&url=https%3A%2F%2Ffragella.com)](https://fragella.com)
 [![Website](https://img.shields.io/website?label=app.fragella.com&style=for-the-badge&url=https%3A%2F%2Fapp.fragella.com)](https://app.fragella.com)
-[![Website](https://img.shields.io/website?label=noseHQ.com&style=for-the-badge&url=https%3A%2F%2FnoseHQ.com)](https://noseHQ.com)
 [![Website](https://img.shields.io/website?label=velira.co&style=for-the-badge&url=https://velira.co)](https://velira.co)
 
 
