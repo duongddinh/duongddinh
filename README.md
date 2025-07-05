@@ -10,8 +10,6 @@
 <p>&nbsp;&nbsp;&nbsp;&nbsp; </p>
 <p></p>
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duongddinh&layout=donut-vertical)](https://github.com/duongddinh)
-<hr>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=duongddinh&repo=humanlang)](https://github.com/duongddinh/humanlang)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=duongddinh&repo=apelang)](https://github.com/duongddinh/apelang)
