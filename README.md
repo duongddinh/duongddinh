@@ -11,9 +11,8 @@
 <p></p>
 <br>
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=duongddinh&repo=humanlang)](https://github.com/duongddinh/humanlang)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=duongddinh&repo=apelang)](https://github.com/duongddinh/apelang)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=duongddinh&repo=humanlang)](https://github.com/duongddinh/humanlang)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=duongddinh&repo=dinolang)](https://github.com/duongddinh/dinolang)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=duongddinh&repo=humanlang-net-tools)](https://github.com/duongddinh/humanlang-net-tools)
 
