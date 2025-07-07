@@ -16,8 +16,9 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=duongddinh&repo=banana-modules)](https://github.com/duongddinh/banana-modules)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=duongddinh&repo=humanlang)](https://github.com/duongddinh/humanlang)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=duongddinh&repo=dinolang)](https://github.com/duongddinh/dinolang)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=duongddinh&repo=humanlang-net-tools)](https://github.com/duongddinh/humanlang-net-tools)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=duongddinh&repo=dinolang)](https://github.com/duongddinh/dinolang)
 
 <!---
 frychicken/frychicken is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
