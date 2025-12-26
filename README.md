@@ -4,7 +4,7 @@
 
 
 - A programmer, network engineer
-- 📫 How to reach me duongdaidinh09@gmail.com
+- 📫 How to reach me jordan@dinhd.dev
 - My gist: [https://gist.github.com/duongddinh](https://gist.github.com/duongddinh)
 
 
