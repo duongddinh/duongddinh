@@ -1,7 +1,5 @@
-[![Website](https://img.shields.io/website?label=api.fragella.com&style=for-the-badge&url=https%3A%2F%2Fapi.fragella.com)](https://api.fragella.com)
-[![Website](https://img.shields.io/website?label=fragella.com&style=for-the-badge&url=https%3A%2F%2Ffragella.com)](https://fragella.com)
 [![Website](https://img.shields.io/website?label=dinhd.dev&style=for-the-badge&url=https://dinhd.dev)](https://dinhd.dev)
-
+[![Website](https://img.shields.io/website?label=fragella.com&style=for-the-badge&url=https%3A%2F%2Ffragella.com)](https://fragella.com)
 
 - A programmer, network engineer
 - 📫 How to reach me jordan@dinhd.dev
